@@ -23,6 +23,6 @@ A simple CRUD (Create, Read, Update, Delete) application built with Express.js a
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/motabbirhossain/curd-operation.git
    cd your-repo-name
 
